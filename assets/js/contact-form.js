@@ -1,5 +1,5 @@
 // External Google Apps Script URL removed for security
-// const SCRIPT_URL = 'REMOVED_EXTERNAL_LINK'; // Replace with your deployed script URL
+const SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbxveB7VmnDBQKsuubL6Aa-0fAktH6S8srB_oo_6NPF-amST0haVUYhuGI_LAqCPLsoq/exec'; // Replace with your deployed script URL
 
 document.addEventListener('DOMContentLoaded', function() {
     const form = document.getElementById('contactUsForm');
