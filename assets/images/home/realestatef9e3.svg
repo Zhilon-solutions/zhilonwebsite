@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="38" height="40" viewBox="0 0 38 40">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #000;
+        stroke-width: 2px;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path class="cls-1" d="M1.72,38.523V7.018a0.825,0.825,0,0,1,.833-1.043h10.2V2.428s-0.206-.771.833-0.834h9.369A0.79,0.79,0,0,1,24,2.428V12.442L36.28,19.119v19.4"/>
+  <path class="cls-1" d="M0.47,38.314H37.53"/>
+  <path class="cls-1" d="M24,14.112V38.106"/>
+  <path class="cls-1" d="M30.292,21v2.712"/>
+  <path id="Shape_20_copy" data-name="Shape 20 copy" class="cls-1" d="M30.292,27.047V29.76"/>
+  <path id="Shape_20_copy_2" data-name="Shape 20 copy 2" class="cls-1" d="M30.292,32.681v2.712"/>
+  <path id="Shape_20_copy_3" data-name="Shape 20 copy 3" class="cls-1" d="M8.233,10.409v2.713"/>
+  <path id="Shape_20_copy_3-2" data-name="Shape 20 copy 3" class="cls-1" d="M8.233,16.459v2.712"/>
+  <path id="Shape_20_copy_3-3" data-name="Shape 20 copy 3" class="cls-1" d="M8.233,22.092V24.8"/>
+  <path id="Shape_20_copy_4" data-name="Shape 20 copy 4" class="cls-1" d="M12.645,10.409v2.713"/>
+  <path id="Shape_20_copy_4-2" data-name="Shape 20 copy 4" class="cls-1" d="M12.645,16.459v2.712"/>
+  <path id="Shape_20_copy_4-3" data-name="Shape 20 copy 4" class="cls-1" d="M12.645,22.092V24.8"/>
+  <path id="Shape_20_copy_5" data-name="Shape 20 copy 5" class="cls-1" d="M16.057,10.409v2.713"/>
+  <path id="Shape_20_copy_5-2" data-name="Shape 20 copy 5" class="cls-1" d="M16.057,16.459v2.712"/>
+  <path id="Shape_20_copy_5-3" data-name="Shape 20 copy 5" class="cls-1" d="M16.057,22.092V24.8"/>
+  <path class="cls-1" d="M7.757,37.314V30.429a1.648,1.648,0,0,1,1.666-2.087h6.454a1.505,1.505,0,0,1,1.666,1.669v7.3"/>
+</svg>

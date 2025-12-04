@@ -1,0 +1,26 @@
+<svg id="Icon" xmlns="http://www.w3.org/2000/svg" width="37" height="37" viewBox="0 0 37 37">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #000;
+        stroke-width: 2px;
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        font-size: 11.73px;
+        fill: #000;
+        font-family: Inter;
+        font-weight: 300;
+        text-transform: uppercase;
+      }
+    </style>
+  </defs>
+  <path class="cls-1" d="M32.3,12.045V35.233H26.115V10"/>
+  <path class="cls-1" d="M22.677,9.68l6.875-6.82,6.188,6.82"/>
+  <path class="cls-1" d="M21.99,27.73V16.137H15.8v19.1H21.99v-3.41"/>
+  <path class="cls-1" d="M5.49,26.366v8.866h6.187V20.91H5.49"/>
+  <path class="cls-1" d="M8.739,1.08A6.827,6.827,0,1,1,1.857,7.906,6.854,6.854,0,0,1,8.739,1.08Z"/>
+  <text id="_" data-name="$" class="cls-2" transform="translate(7.162 10.805) scale(0.687 0.682)">$</text>
+</svg>

@@ -1,0 +1,14 @@
+/* Custom CSS to make dropdown lists always visible */
+.SDW-delivering-next .sec1 .front ul li .back {
+    display: block !important;
+    opacity: 1 !important;
+    visibility: visible !important;
+    height: auto !important;
+    overflow: visible !important;
+    max-height: none !important;
+}
+
+/* Remove any hover-only display rules */
+.SDW-delivering-next .sec1 .front ul li:hover .back {
+    display: block !important;
+}

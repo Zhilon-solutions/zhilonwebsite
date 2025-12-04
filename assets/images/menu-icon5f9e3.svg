@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #000;
+        stroke-width: 2px;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path class="cls-1" d="M0.808,32.364H37.849"/>
+  <path id="Shape_10_copy" data-name="Shape 10 copy" class="cls-1" d="M0.808,38.031H37.849"/>
+  <path class="cls-1" d="M11.464,32.364l-2.03,5.667"/>
+  <path class="cls-1" d="M31.76,32.364l2.03,5.667"/>
+  <path class="cls-1" d="M22.119,32.364V13.3"/>
+  <path class="cls-1" d="M5.882,13.819s7.358-2.276,11.163,1.545c0,0,5.835-3.992,10.148,0A14.094,14.094,0,0,1,37.849,13.3S34.551,1.928,22.119,1.97C22.119,1.97,11.125,1.455,5.882,13.819Z"/>
+  <path class="cls-1" d="M17.045,14.848S18.821,5.19,21.612,2.486"/>
+  <path class="cls-1" d="M27.7,14.848S26.094,5.877,23.134,1.97"/>
+  <path class="cls-1" d="M16.232,32.178a9.67,9.67,0,0,0-9.367-5.62"/>
+</svg>

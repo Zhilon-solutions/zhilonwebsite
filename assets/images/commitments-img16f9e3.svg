@@ -1,0 +1,44 @@
+<svg id="Icon" xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3, .cls-4 {
+        fill: none;
+        fill-rule: evenodd;
+      }
+
+      .cls-1, .cls-3 {
+        stroke: #000;
+      }
+
+      .cls-1 {
+        stroke-width: 1px;
+      }
+
+      .cls-2, .cls-4 {
+        stroke: #757575;
+      }
+
+      .cls-2, .cls-3, .cls-4 {
+        stroke-width: 2px;
+      }
+
+      .cls-2 {
+        stroke-dasharray: 4 8;
+      }
+
+      .cls-4 {
+        stroke-dasharray: 8 8;
+      }
+
+      .cls-5 {
+        fill: #0035f5;
+      }
+    </style>
+  </defs>
+  <path id="Line_1" data-name="Line 1" class="cls-1" d="M47.422,50.456h1.27V93.371h-1.27V50.456Z"/>
+  <path id="Line_7" data-name="Line 7" class="cls-2" d="M48.054,51.088H47.423V6.283h0.631v44.8Z"/>
+  <path id="Shape_1_copy" data-name="Shape 1 copy" class="cls-3" d="M12.036,50.347l36.2-21.183L85.952,50.347,48.24,73.045Z"/>
+  <path id="Shape_1_copy_4" data-name="Shape 1 copy 4" class="cls-4" d="M12.036,26.816L48.24,5.631,85.952,26.816,48.24,49.512Z"/>
+  <path id="Shape_1_copy_2" data-name="Shape 1 copy 2" class="cls-3" d="M12.036,71.464l36.2-21.185L85.952,71.464,48.24,94.161Z"/>
+  <circle class="cls-5" cx="47.234" cy="50.406" r="4.516"/>
+</svg>
